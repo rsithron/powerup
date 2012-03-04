@@ -1,0 +1,10 @@
+Tool for reading data off the Jun-Si PowerLog 6S, a logging device for radio
+control models.
+
+Requires the hidapi USB library:
+  http://www.signal11.us/oss/hidapi/
+
+Written and used on Mac OS X. Should be straightforward to use on Linux and
+other UNIX systems. Some modifications likely required for Windows.
+Contribute your experiences to the GitHub project:
+  http://github.com/rsithron/powerup
